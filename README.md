@@ -1,6 +1,7 @@
 <h1 align="center">
     🤙HEKEL🤙
 </h1>
+###
 
 ### Install
 ```
@@ -16,3 +17,7 @@ cd hekel
 ls
 python2 hekel.py
 ```
+p align="center">
+<a href="#"><img title="Author by Rum" src="https://img.shields.io/badge/Script%20By-MuhammadRizky-green?"></a>
+<a href="#"><img title="Author by Rum" src="https://img.shields.io/badge/Code%20-python2.7-blue?"></a>
+<br>
