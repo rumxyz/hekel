@@ -10,9 +10,11 @@ pkg install git
 pip2 install mechanize
 git clone https://github.com/rumxyz/hekel
 ```
-# Run Script
+### Run Script
 ```
 cd hekel
 ls
 python2 hekel.py
+
+
 ````
